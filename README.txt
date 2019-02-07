@@ -4,8 +4,8 @@ This school project was created to not only display, but also analyze the result
 
 Features:
 
-	- Displays three sensor values (Temperature, Relative Humidity and Atmospheric Pressure) in a numeric and visual form, together 	with a dynamic color and written statement that changes based on the result.
-	- Failsafe system to keep the progression bars from going below 1% or above 100%, ensuring that the bar stays within it's limits 	 and always displays a color.
+	- Displays three sensor values (Temperature, Relative Humidity and Atmospheric Pressure) in a numeric and visual form, together with a dynamic color and written statement that changes based on the result.
+	- Failsafe system to keep the progression bars from going below 1% or above 100%, ensuring that the bar stays within it's limits and always displays a color.
 	- Dynamic web page that adapts to the resolution of the device screen.
 	- Refresh button to easily update the results displayed.
 	- 5 second automatic refresh commented out in the HTML document.

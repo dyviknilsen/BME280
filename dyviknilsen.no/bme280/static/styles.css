@@ -1,0 +1,52 @@
+/* Stylesheet for the BME280 Indoor Climate Presentation Page by Jonas Dyvik Nilsen */
+/* Located on https://dyviknilsen.no/bme280/static/styles.css */
+body {
+    background-color: #ffffff;
+}
+.body {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    max-width: 95%;
+}
+.header {
+    font-family: Arial;
+    font-size: 32;
+}
+.bar-title {
+    font-family: Arial;
+    font-size: 16;
+}
+.bar-border {
+    background-color: #cdcdcd;
+    height: 32px;
+    width: 80%;
+}
+.bar {
+    height:32px;
+}
+.bar-text {
+    font-family: Arial;
+    font-size: 14;
+    color: #ffffff;
+    padding: 8px 0px 0px 10px;
+    height: 24;
+}
+.refresh-button {
+    background-color: #a8a8a8;
+    border: none;
+    color: #000000;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    /* Safari */
+    -webkit-transition-duration: 0.4s;
+}
+.refresh-button:hover {
+    background-color: #cdcdcd;
+    color: black;
+}

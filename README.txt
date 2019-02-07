@@ -8,7 +8,7 @@ Features:
 	- Dynamic web page that adapts to the screen size.
 	- Refresh button to easily update the results.
 	- 5 second automatic refresh commented out in the HTML document.
-	- Separate CSS document and favicon folder located on the dyviknilsen.no domain. Files included in separate folder.
+	- Separate CSS document and favicon folder located on the https://dyviknilsen.no domain. Files included in separate folder.
 	
 Credits:
 	https://www.w3schools.com

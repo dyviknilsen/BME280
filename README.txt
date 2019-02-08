@@ -1,4 +1,4 @@
-BME280 Indoor Climate Presentation Page by Jonas Dyvik Nilsen v1.0, February 2nd 2019
+BME280 Indoor Climate Presentation Page by Jonas Dyvik Nilsen v1.0, February 7th 2019
 
 This school project was created to not only display, but also analyze the results from a BME280 sensor unit, connected to an ESP32 microcontroller running MicroPython.
 
